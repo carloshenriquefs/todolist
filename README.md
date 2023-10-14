@@ -1,2 +1,3 @@
-# todolist
-Gerenciador de Tarefas
+## :bricks: - Construção TodoList
+
+- Gerenciador de Tarefas;
